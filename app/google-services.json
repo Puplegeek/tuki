@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1055195302963",
+    "project_id": "tuki-a0d06",
+    "storage_bucket": "tuki-a0d06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055195302963:android:696f2993f6b13df8896746",
+        "android_client_info": {
+          "package_name": "com.example.tuki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055195302963-bdiv12qblsbb63mpsg6qobeqr8beackp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tuki",
+            "certificate_hash": "68373c377cdb8901f934eca67eb3721b39141521"
+          }
+        },
+        {
+          "client_id": "1055195302963-b8k9p5tl98bj7fl7p95cbqfej0vjdrku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_AmsKpHGEcYPCnqOBodwX1xIjc2Y0C1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055195302963-b8k9p5tl98bj7fl7p95cbqfej0vjdrku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
